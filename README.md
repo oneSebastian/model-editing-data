@@ -4,7 +4,7 @@ This repository holds the model editing datasets used in this [model editing ben
 ## Data sources
 Credits for the datasets belong to the following sources:
 
-- **zsRE and CounterFact**  https://rome.baulab.info/data/
+- **zsRE and CounterFact**
   We use the same dataset splits as Meng et al. (2023, [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)). We use the datasets distributed by them [here](https://rome.baulab.info/data/). The *CounterFACT* dataset was created by them. The *zsRE* dataset was first created by [Levy et al. (2017)](https://aclanthology.org/K17-1034/).
 
 - **MQuAKE**
