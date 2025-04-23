@@ -5,7 +5,7 @@ This repository holds the model editing datasets used in this [model editing ben
 Credits for the datasets belong to the following sources:
 
 - **zsRE and CounterFact:**
-  We use the same dataset splits as [Meng et al. (2023)](https://arxiv.org/abs/2202.05262). We use the datasets distributed by them [here](https://rome.baulab.info/data/). The *CounterFACT* dataset was created by them. The *zsRE* dataset was first created by [Levy et al. (2017)](https://aclanthology.org/K17-1034/).
+  We use the same dataset splits as [Meng et al. (2023)](https://arxiv.org/abs/2202.05262). We use the datasets distributed by them [here](https://rome.baulab.info/data/). The *CounterFact* dataset was created by them. The *zsRE* dataset was first created by [Levy et al. (2017)](https://aclanthology.org/K17-1034/).
 
 - **MQuAKE:**
   The *MQuAKE* dataset was released by [Zhong et al. (2024)](https://arxiv.org/abs/2305.14795). The data can be found [here](https://github.com/princeton-nlp/MQuAKE).
